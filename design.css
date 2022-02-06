@@ -1,0 +1,162 @@
+.main{
+    background:url('vector 1.jpg');
+}
+.sign{
+    left: 16.67%;
+    top: 16.67%;
+    bottom: 16.67%;
+    right:16.67%;
+     background: #528FF0;
+    
+
+}
+.img1:hover{
+    border: 1px solid blue;
+
+}
+.images{
+    display: flex;
+    
+}
+.sec1{
+    color: white;
+}
+.h1{
+    font-family: HK Grotesk;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 53px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.para{
+    font-family: HK Grotesk;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.btn1{
+    background:white;
+    margin-top: 20px;
+    width: 25%;
+    height: 15vh;
+    box-shadow: 0 20px 20px rgba(0, 0,0,0.2), 0px 0px 50px rgba(0, 0,0,0.2);
+    padding: 10px;
+    border-top:15px solid rgb(231, 172, 46);
+    border-radius: 6px;
+}
+.btn2{
+    background:white;
+    margin-top: 20px;
+    width: 25%;
+    height: 15vh;
+    box-shadow: 0 20px 20px rgba(0, 0,0,0.2), 0px 0px 50px rgba(0, 0,0,0.2);
+    padding: 10px;
+    border-top:15px solid rgb(104, 119, 202);
+    border-radius: 6px;
+}
+.btn3{
+    background:white;
+    margin-top: 20px;
+    width: 25%;
+    height: 15vh;
+    box-shadow: 0 20px 20px rgba(0, 0,0,0.2), 0px 0px 50px rgba(0, 0,0,0.2);
+    padding: 10px;
+    
+    border-radius: 6px;
+}
+.btn4{
+    background:white;
+    margin-top: 20px;
+    width: 25%;
+    height: 15vh;
+    box-shadow: 0 20px 20px rgba(0, 0,0,0.2), 0px 0px 50px rgba(0, 0,0,0.2);
+    padding: 10px;
+   
+    border-radius: 6px;
+}
+.btn4{
+    background:white;
+    margin-top: 20px;
+    width: 25%;
+    height: 15vh;
+    box-shadow: 0 20px 20px rgba(0, 0,0,0.2), 0px 0px 50px rgba(0, 0,0,0.2);
+    padding: 10px;
+   
+    border-radius: 6px;
+}
+
+.mainbtn{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+.mainbtn1{
+    display: flex;
+    gap: 10px;
+}
+.counter{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+.ctnbtn{
+    background: #8CA4AB;
+    height: 48px;
+    width: 40px;
+    left: 800px;
+    top: 1415px;
+    border-radius: 4px;
+    
+}
+.ctnbtn2{
+    background: #8CA4AB;
+    height: 48px;
+    width: 40px;
+    left: 800px;
+    top: 1415px;
+    border-radius: 4px;
+    
+}
+.rbtn{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.submit{
+    width: 522px;
+    height: 72px;
+    left: 800px;
+    top: 1632px;
+    background: #00BA74;
+    font-family: HK Grotesk;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align:center;
+color: white;
+margin-top: 40px;
+
+
+}
+.para{
+    font-family: HK Grotesk;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.paragraphs{
+    margin-top: 50px;
+}
